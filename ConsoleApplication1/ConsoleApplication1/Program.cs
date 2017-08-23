@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-             Console.Write("HEllo I m making changes to my project");
+             Console.WriteLine("HEllo I m making changes to my project");
         }
     }
 }
